@@ -1,5 +1,3 @@
-# High Level Programming ProjectEARTH
+# ProjectEARTH
 
-* Burla Nur Korkmaz (No: 2008484)
-* Büşra Yıldız (No: 2005621)
-* Aras Umut Erarslan (No: 2005627)
+Earthquake dataset is examined in order to compute the spatial and temporal distribution of earthquakes and to correctly illustrate the process.
